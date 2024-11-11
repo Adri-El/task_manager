@@ -13,6 +13,8 @@ This project is a Task Manager application.
 ## Online access
 You can access the app online by using this link: https://task-manager-client-dmuv.onrender.com
 
+You can also access the project repository via this link: https://github.com/Adri-El/task_manager.git
+
 ## Tech-STACK
 This application was built using  the following technologies:
 Backend:
