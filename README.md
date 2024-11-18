@@ -20,9 +20,10 @@ This application was built using  the following technologies:
 Backend:
 1. Javascript as the base programming language
 2. Node.js framework called Express.js for the server. 
-3. SQL for the database.
+3. SQL for the database. The database is hosted on AWS RDS.
 4. Sequelize as the ORM.
-5. GraphQL for the API. The database is hosted on AWS RDS.
+5. GraphQL for the API.
+6. JWT for authentication 
 
 Frontend
 1. Typescript as the base language
